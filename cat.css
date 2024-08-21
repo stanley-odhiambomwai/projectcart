@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+
+h1{
+  color: rgb(17, 86, 235);
+  text-align: center;
+  text-shadow: none;
+}
+
+  .liked {
+    color: red;
+}
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+    background-color: rgb(225, 249, 71);
+}
+
+
+h2{
+  text-align: center;
+  color: rgb(33, 55, 224);
+  text-shadow: none;
+}
